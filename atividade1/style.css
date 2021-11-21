@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+table {
+    text-align: center;
+    border: rgb(248, 18, 18) solid 1px;
+    width: 10vw;
+    background-color: burlywood;
+
+}
+button{
+    border: 1px solid black;
+    width: 3vw;
+    margin-right: 0.2vw;
+    margin: 0;
+    padding: 0;
+}

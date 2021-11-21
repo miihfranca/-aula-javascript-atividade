@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+    align-items: center;
+}
+input, label {
+    margin: 4%;
+}
